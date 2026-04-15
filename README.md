@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Nest.js<br>🎯 Goals: Make more open-source contributions<br>🎲 Fun fact: I've been programming since almost a decade</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning about LLMs<br>🎯 Goals: Write cleaner and maintainable code<br>🎲 Fun fact: I've been programming since almost a decade</p>
 
 ###
 
