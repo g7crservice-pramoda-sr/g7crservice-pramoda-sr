@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pramoda S R and I'm a Data and AI Engineer, from G7CR Technologies.</p>
+<p align="left">My name is Pramoda S R and I'm a Data and AI Engineer, from Noventiq Global AI Solutions.</p>
 
 ###
 
@@ -52,24 +52,6 @@
 </div>
 
 ###
-
-<h2 align="center">Fun Zone</h2>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ytotgt3kad802diqwr3b1t5aj">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ytotgt3kad802diqwr3b1t5aj&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g7crservice-pramoda-sr/g7crservice-pramoda-sr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g7crservice-pramoda-sr/g7crservice-pramoda-sr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/g7crservice-pramoda-sr/g7crservice-pramoda-sr/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
